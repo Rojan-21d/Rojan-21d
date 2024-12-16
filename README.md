@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rojan</h1>
-<h3 align="center">A passionate django developer from Kathmandu</h3>
+<h3 align="center">A passionate developer and learner from Kathmandu</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rojan-21d&label=Profile%20views&color=0e75b6&style=flat" alt="rojan-21d" /> </p>
 
